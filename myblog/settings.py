@@ -43,7 +43,7 @@ INSTALLED_APPS = (
     'disqus',
 )
 
-DISQUS_API_KEY = 'JeAxgtLUxYPpnHxlIAwAJw3Mhg14YLRqOfBAkghaVfzRDNPH0nX7F5vpXNACIsTA'
+DISQUS_API_KEY = 'LH9KQW0fXhZ7wFWDaw745lLbPMb2XbCYEqxnoyJcKDG9f1X2GhGCsh8wUSpzyYZG'
 DISQUS_WEBSITE_SHORTNAME = 'wxublog'
 
 from django.conf import global_settings
